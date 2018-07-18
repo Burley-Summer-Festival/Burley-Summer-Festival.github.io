@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The Burley Summer Festival is a yearly week long event in the village of Burley-in-Wharfedale in West Yorkshire.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This GitHub project is to pick up Media from Social Media posted around the Festival.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[burleysummerfestival@gmail.com](mailto:burleysummerfestival@gmail.com)
