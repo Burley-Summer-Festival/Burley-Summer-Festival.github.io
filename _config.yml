@@ -12,6 +12,12 @@ description: Gallery of Social Media Posts during the Festival
 #avatar: https://raw.githubusercontent.com/burley-summer-festival/burley-summer-festival/master/images/burleyfb.jpg
 avatar: /images/burleyfb.jpg
 
+url: https://Burley-Summer-Festival.github.io
+
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+
 #
 # Flags below are optional
 #
