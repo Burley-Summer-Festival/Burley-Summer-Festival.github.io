@@ -1,3 +1,6 @@
+---
+---
+
 class Instafeed
   constructor: (params, context) ->
     # default options
