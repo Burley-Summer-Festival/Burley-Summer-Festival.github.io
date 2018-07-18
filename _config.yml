@@ -10,7 +10,7 @@ description: Gallery of Social Media Posts during the Festival
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/burley-summer-festival/burley-summer-festival/master/images/burleyfb.jpg
-avatar: burleyfb.jpg
+avatar: /images/burleyfb.jpg
 
 #
 # Flags below are optional
