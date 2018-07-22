@@ -1,1 +1,6 @@
-https://www.instagram.com/explore/tags/burleysummerfestival/
+---
+title: Instagram Festival Photos
+layout: external
+external_url: https://www.instagram.com/explore/tags/burleysummerfestival/
+---
+
